@@ -1,0 +1,53 @@
+/* body{
+    margin: 1rem;
+} */
+.poora{
+    width: 100%;
+  
+    background-color:rgb(238, 238, 238);
+    margin-left: 2%;
+    
+}
+/* .poora1{
+    margin-top: 5%;
+} */
+.head{
+    color: #3e3e52;
+    font-size: 15px;
+    font-weight: bold;
+}
+.bdy{
+    /* color: #3e3e52; */
+    font-size: 15px;
+
+}
+#abb{
+    color: #3e3e52;
+}
+.imgs{
+    width: 8%;
+    float: left;
+    
+}
+hr{
+    opacity: 0.1;
+}
+.inp{
+    line-height: 1.9;
+}
+.inp1{
+    float: left;
+}
+
+.assam{
+   
+    text-align: center;
+    margin:10% 30% 0% 30%;
+}
+.oops_img{
+    float: left;
+
+}
+.oops{
+    float: left;
+}
